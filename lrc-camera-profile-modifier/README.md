@@ -1,1 +1,1 @@
-# Subtitles Auto Renamer
+# LrC Camera Profile Modifier
